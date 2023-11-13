@@ -12,7 +12,7 @@ package project2;
 import java.util.ArrayList;
 
 /**
- * @author Kathleen Timmerman
+ * @author Jack Hoeting
  * @version 2023.02
  * Built the project from scratch.
  */
