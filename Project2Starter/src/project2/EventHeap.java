@@ -8,7 +8,7 @@
 package project2;
 
 /**
- * @author Liz Johnson
+ * @author Jack Hoeting
  * @version 2023.10 Built the project from scratch.
  */
 public class EventHeap {
