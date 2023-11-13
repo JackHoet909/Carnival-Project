@@ -13,7 +13,7 @@
 package project2;
 /**
  *
- * @author johnsone
+ * @author Jack Hoeting
  */
 public class Person {
     private double arrivalTime; //How many minutes past park opening time that they arrive
