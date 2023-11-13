@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * @author Kathleen Timmerman
+ * @author Jack Hoeting
  * @version 2023.02
  * Built the project from scratch.
  */
