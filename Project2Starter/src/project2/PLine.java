@@ -7,7 +7,7 @@ package project2;
 /**
  * Implementation of queue. Front is front of list. End is back of list
  *
- * @author johnsone
+ * @author Jack Hoeting
  */
 public class PLine {
 
