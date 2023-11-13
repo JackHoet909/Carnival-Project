@@ -24,7 +24,7 @@ package project2;
 
 /**
  * @version Starter Code
- * @author Liz Johnson
+ * @author Jack Hoeting
  */
 class DCircularLL {
 
